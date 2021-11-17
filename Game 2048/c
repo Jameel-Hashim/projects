@@ -1,0 +1,4 @@
+#!/bin/sh
+javac Game2048.java
+clear
+java Game2048

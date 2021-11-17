@@ -1,0 +1,3 @@
+#!/bin/bash
+javac Stars.java
+java Stars $1 $2

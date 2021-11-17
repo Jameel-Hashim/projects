@@ -1,0 +1,4 @@
+#!/bin/bash
+javac XO.java
+clear
+java XO
